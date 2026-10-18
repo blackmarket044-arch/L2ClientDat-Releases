@@ -1,6 +1,6 @@
-# L2ClientDat Editor - Lunara Edition
+# Ищи актуальную версию в разделе [Releases](https://github.com/blackmarket044-arch/L2ClientDat-Releases/releases)
 
-**Ищи актуальную версию в разделе** [Releases](https://github.com/blackmarket044-arch/L2ClientDat-Releases/releases)
+# L2ClientDat Editor - Lunara Edition
 
 L2ClientDat — редактор файлов Lineage II
 
@@ -19,9 +19,9 @@ L2ClientDat — программа для просмотра и редактир
 Программа предназначена для удобной работы с данными клиента Lineage II.
 
 -----------------------------------------------------------
-# L2ClientDat — Lineage II Client File Editor Lunara
+# Find the latest version in the section [Releases](https://github.com/blackmarket044-arch/L2ClientDat-Releases/releases)
 
-**Find the latest version in the section** [Releases](https://github.com/blackmarket044-arch/L2ClientDat-Releases/releases)
+# L2ClientDat — Lineage II Client File Editor Lunara
 
 L2ClientDat is a tool for viewing and editing Lineage II client data files. 
 
