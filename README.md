@@ -52,4 +52,3 @@ L2ClientDat is designed to make working with Lineage II client data files simple
 ## Recommended software
 
 - Liberica JDK 24
-- Eclipse IDE for Java Developers
