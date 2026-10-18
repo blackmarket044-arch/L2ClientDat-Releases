@@ -16,6 +16,7 @@ L2ClientDat — программа для просмотра и редактир
 
 Программа предназначена для удобной работы с данными клиента Lineage II.
 
+-----------------------------------------------------------
 # L2ClientDat — Lineage II Client File Editor Lunara
 
 L2ClientDat is a tool for viewing and editing Lineage II client data files. 
