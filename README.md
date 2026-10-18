@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="splash.png" alt="L2ClientDat" width="64">
+  <img src="splash.png" alt="L2ClientDat" width="512">
 </p>
 
 <h1 align="center">L2ClientDat — редактор файлов Lineage II</h1>
