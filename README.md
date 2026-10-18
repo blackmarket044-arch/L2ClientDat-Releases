@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="dist/images/l2jlunara_logo.png" alt="L2ClientDat" width="240">
+</p>
+
+<h1 align="center">L2ClientDat — редактор файлов Lineage II</h1>
+
 # Ищи актуальную версию в разделе [Releases](https://github.com/blackmarket044-arch/L2ClientDat-Releases/releases)
 
 # L2ClientDat Editor - Lunara Edition
