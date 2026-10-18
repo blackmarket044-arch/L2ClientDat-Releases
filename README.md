@@ -4,8 +4,8 @@
 
 <h1 align="center">L2ClientDat — редактор файлов Lineage II</h1>
 
-[![release](https://img.shields.io/github/v/release/blackmarket044-arch/L2ClientDat-Releases?label=релиз&color=green)](https://github.com/blackmarket044-arch/L2ClientDat-Releases/releases)
-![platform](https://img.shields.io/badge/платформа-Windows?color=8A2BE2&logo=windows&logoColor=white)
+[![release](https://img.shields.io/github/v/release/blackmarket044-arch/L2ClientDat-Releases?label=release&color=green)](https://github.com/blackmarket044-arch/L2ClientDat-Releases/releases)
+![Платформа](https://img.shields.io/badge/платформа-Windows?color=8A2BE2&logo=windows&logoColor=white)
 ![Лицензия](https://img.shields.io/badge/лицензия-GPL--3.0-blue)
 
 # Ищи актуальную версию в разделе [Releases](https://github.com/blackmarket044-arch/L2ClientDat-Releases/releases)
