@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dist/images/l2jlunara_logo.png" alt="L2ClientDat" width="240">
+  <img src="l2jlunara_logo.png" alt="L2ClientDat" width="240">
 </p>
 
 <h1 align="center">L2ClientDat — редактор файлов Lineage II</h1>
